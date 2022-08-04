@@ -17,7 +17,9 @@ spl-token-2022= "0.4.1"
 solana-storage-bigtable = { git = "https://github.com/omertxyz/solana.git", rev = "c1e44fd635c9aa3ae31447fef19adeab2cd66943" }
 bundlr-sdk = {git = "https://github.com/kaustavha/rust-sdk", rev = "beab2a990edfb71eeeffa7f42e93ff121b08286e" }
 gimli = "0.26"
+rustversion = "=1.0.8"
 addr2line = "0.17"
+slog-stdlog = "4.1.0"
 
 [patch.crates-io]
 aes-gcm-siv = { git = "https://github.com/lei2022/AEADs", rev = "d9d03399fbc1347a1c2941801c0743e847980757" }
