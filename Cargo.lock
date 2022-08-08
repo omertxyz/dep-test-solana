@@ -462,7 +462,7 @@ checksum = "8d696c370c750c948ada61c69a0ee2cbbb9c50b1019ddb86d9317157a99c2cae"
 [[package]]
 name = "bonbon"
 version = "0.1.0"
-source = "git+https://github.com/lwus/bonbon.git?rev=2acd5270e4ad91b23644182038296d7d7bb1f456#2acd5270e4ad91b23644182038296d7d7bb1f456"
+source = "git+https://github.com/lwus/bonbon.git?rev=dcb774c0217fccee451dca062038a12f5b6e1ca4#dcb774c0217fccee451dca062038a12f5b6e1ca4"
 dependencies = [
  "borsh",
  "bs58",
